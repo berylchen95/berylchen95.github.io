@@ -1,2 +1,2 @@
 # blog
-通过github/gitee page生成网页。
+通过github page生成网页。

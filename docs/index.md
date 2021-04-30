@@ -1,9 +1,8 @@
-# Foam-mkdocs-template
+# Doredream Qrcode
 Welcome to Foam-mkdocs-template! [[#support roamlinks]]!
 
-* How to create this website and share your foam/obsidian notes? See: [[tutorial]]
+* How to create this website and share your notes? See: [[test]]
 * [foam](https://github.com/foambubble/foam)
-
 
 ## Support roamlinks
 

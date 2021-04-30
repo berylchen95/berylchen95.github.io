@@ -3,4 +3,4 @@
 箫声沸，仙子下秦接。  
 鹳鹊昔曾邀明月，雎鸠今始咏风讴，孔乐订相攸。
 
-<img src=mei.jpeg width="5%">
+<img src='mei.png' width="5%">

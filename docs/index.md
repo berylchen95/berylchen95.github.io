@@ -1,6 +1,10 @@
 # 新婚快乐
+<audio id="audio" controls=true preload="none" autoplay=true>
+      <source id="mp3" src="music.mp3">
+      </audio>
+      
+红叶传书，锦屏射雀，终成秦晋之好于斯日。
 
-箫声沸，仙子下秦接。  
-鹳鹊昔曾邀明月，雎鸠今始咏风讴，孔乐订相攸。
+白头偕老，鸿案相庄，愿结琴瑟之欢于永年。
 
-<img src='mei.png' width="5%">
+<img src='mei.png' width="10%">

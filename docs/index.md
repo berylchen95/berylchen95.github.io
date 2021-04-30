@@ -7,4 +7,4 @@
 
 白头偕老，鸿案相庄，愿结琴瑟之欢于永年。
 
-<img src='mei.png' width="10%">
+<img src='mei.png' width="40%">

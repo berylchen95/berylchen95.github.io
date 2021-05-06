@@ -1,21 +1,42 @@
+<!DOCTYPE html>
 <html>
-<body>
-<body background="back.gif" width="60%">
-<p>
-<font face="STXinwei" size="7" color=white>新婚快乐</font><br /><br />
-</p>
-
-<audio id="audio" controls=true preload="none" autoplay=true>
-      <source id="mp3" src="music.mp3">
-      </audio>
-<p>     
-<font face="STXinwei" size="5" color=white>红叶传书，锦屏射雀，终成秦晋之好于斯日。</font><br />
-<font face="STXinwei" size="5" color=white>白头偕老，鸿案相庄，愿结琴瑟之欢于永年。</font>
-</p>
-<img src='mei.png'  width="60%" />
-<p> 
-<font face="STXinwei" style="text-align:right" size="5" color=white>2021-05-01</font><br />
-<font face="STXinwei" style="text-align:right" size="5" color=white>陈兴圆</font>
-</p>
-</body>
+	<head>
+		<meta charset="UTF-8">
+		<title>新婚快乐</title>
+		<style type="text/css">
+				.titleFontType,.contentFontType,.endFontType{
+					color:white;
+					font-family:MLingWaiMedium-SC;
+				}
+				.titleFontType{
+					font-size:60px;/*谷歌浏览器字体最小12px*/
+					font-weight:bold;	
+					text-align:center;				
+				}
+				.contentFontType{
+					font-size:30px;
+					text-align:center;			
+				}
+				.endFontType{
+							font-size:20px;
+							text-align:right;		
+				}
+		</style>
+	</head>
+	<body background="back.gif">
+		<div class="titleFontType">
+			新婚快乐<br>
+		</div>
+		<div class="contentFontType">
+			<audio controls="controls" autoplay="autoplay" loop="loop" src="music.mp3">
+			</audio><br>
+			红叶传书，锦屏射雀，终成秦晋之好于斯日。<br>
+			白头偕老，鸿案相庄，愿结琴瑟之欢于永年。<br>
+			<img src="mei.png" width="80%">
+		</div>
+		<div class="endFontType">
+			2021-05-01<br>
+			陈兴圆<br>
+		</div>
+	</body>
 </html>
